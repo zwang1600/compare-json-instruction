@@ -5,4 +5,4 @@ Make sure you are in "Kitchen & Bath" mode in Design Studio first (Advanced Tool
 
 Go to File --> Export JSON --> Kitchen & Bath --> Generate --> Download.
 
-![](https://github.com/zwang1600/compare-json-instruction/tree/main/resource/step1.gif)
+![](resource/step1.gif)
