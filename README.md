@@ -24,7 +24,7 @@ More than likely you will need to go back and revise your design file to match t
 
 You might get a lot of errors at first. Don't smash your laptop just yet! It could just be that you placed one cabinet slightly off in the y-direction by 2 inches, resulting in all the other cabinets being off by 2 inches as well. Please be patient when checking the error log. 
 
-## Step 5: Complain to the software engineer that did this
+## Step 5: Complain to the software engineer who did this
 A lot of testing is needed to improve the usability of this script. If you encounter any difficulties, please let me know. All feedback is welcomed! I appreciate your help! 
 
 My email: zuo@ronbow.com
